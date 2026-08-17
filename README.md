@@ -9,3 +9,5 @@ Kumpulan proyek analisis data yang telah saya selesaikan ketika mengikuti Boothc
 ## Proyek 2: Power BI
 * **Deskripsi**: Analisis dan visualisasi data interaktif menggunakan Power BI.
 * **File**: [Unduh Portofolio Power BI](./Portofolio%20Data%20Analyst-%20PowerBI%20Rahmanida.pdf)
+* Dashboard: [Unduh Dashboard Power BI](./Dasboard%20PowerBI-Rahmanida%20.mp4)
+
