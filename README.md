@@ -20,7 +20,7 @@ Kumpulan proyek analisis data yang telah saya selesaikan ketika mengikuti Boothc
 ## Proyek 4: SQL
 * **Deskripsi**: Analisis data menggunakan SQL dan visualisasi menggunakan Python. 
 * **File**: [Unduh Portofolio Python](./Portofolio-Data-Analyst/blob/main/Portofolio%20Data%20Analyst-%20SQL%20Rahmanida.pdf)
-* **Query**: [Unduh Query Python](.
+* **Query**: [Unduh Query Python](./Data Analysyis_SQL.sql)
 
 
 
